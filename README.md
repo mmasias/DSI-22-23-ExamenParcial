@@ -3,7 +3,7 @@
 ## Instrucciones para la resolución del examen
 
 - En la primera página, elija uno de los escenarios de la pregunta 1 y resuélvalo.
-- En la segunda página, elija uno de los escenarios de la pregunta 2 y dé inicio a su resolución planteando un esquema. 
+- En la segunda página, elija uno de los escenarios de la pregunta 2 y dé inicio a su resolución planteando el esquema de solución. En la medida que el tiempo del examen le cunda, vaya resolviendo/completado este esquema. 
 
 ### Objetivos del examen
 
